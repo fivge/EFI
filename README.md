@@ -1,1 +1,1 @@
-### Thinkpad E450
+### Qinghua Tongfang K56
