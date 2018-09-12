@@ -1,1 +1,1 @@
-Clover EFI files
+### Thinkpad L470
